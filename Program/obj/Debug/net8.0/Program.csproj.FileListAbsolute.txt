@@ -1,0 +1,14 @@
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\bin\Debug\net8.0\Program.exe
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\bin\Debug\net8.0\Program.deps.json
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\bin\Debug\net8.0\Program.dll
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\bin\Debug\net8.0\Program.pdb
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\obj\Debug\net8.0\Program.dll
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\obj\Debug\net8.0\refint\Program.dll
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\obj\Debug\net8.0\Program.pdb
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+D:\file_code_all\file_code_c#\helloword\08.bai8\Program\obj\Debug\net8.0\ref\Program.dll
